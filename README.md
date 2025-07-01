@@ -1,3 +1,5 @@
+https://github.com/ravindrakush11/Python-OOPs
+
 # pydantic
 
 The potential confusion around the term "validation" arises from the fact that, strictly speaking, Pydantic's primary focus doesn't align precisely with the dictionary definition of "validation":
