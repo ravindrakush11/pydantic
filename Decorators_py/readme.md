@@ -1,7 +1,5 @@
 # 🗺️ Roadmap to Mastering Python Decorators
 
----
-
 ## 🟢 **Phase 1: Foundations (Beginner Level)**
 
 ### 🎯 Goal: Understand what decorators are and how basic ones work.
